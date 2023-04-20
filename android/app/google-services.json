@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329905981640",
+    "project_id": "shoesapp-cd714",
+    "storage_bucket": "shoesapp-cd714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329905981640:android:0bd8ba956daa11d311fdfd",
+        "android_client_info": {
+          "package_name": "pe.emprendidos.shoesclientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329905981640-9hf8mr59hk1od54vstcra4mdu0ruj953.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAweqCPnfQYMapJsm5Khz_4aQ8pRzEPRMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329905981640-9hf8mr59hk1od54vstcra4mdu0ruj953.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
